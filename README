@@ -1,0 +1,9 @@
+Use:
+
+./raytracer2 scene.ini [To extport to BMP]
+
+Ex:
+
+./raytracer2 Scene/spooky.ini test.bmp
+
+Loading .obj in dev
