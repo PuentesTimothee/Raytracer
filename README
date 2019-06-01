@@ -8,5 +8,4 @@ Ex:
 ./raytracer2 Scene/spooky.ini test.bmp
 
 Loading .obj in dev
-
-![TestPicture](https://github.com/PuentesTimothee/Raytracer/blob/master/test.bmp?raw=true)
+![alt text](https://raw.githubusercontent.com/PuentesTimothee/Raytracer/blob/master/test.bmp)
