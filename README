@@ -1,4 +1,4 @@
-Install LibLapin in order to proceed
+Install LibLapin (Decrepated) in order to proceed
 Use:
 
 ./raytracer2 scene.ini [To extport to BMP]
@@ -7,5 +7,4 @@ Ex:
 
 ./raytracer2 Scene/spooky.ini test.bmp
 
-Loading .obj in dev
-![alt text](https://raw.githubusercontent.com/PuentesTimothee/Raytracer/blob/master/test.bmp)
+![alt text](https://raw.githubusercontent.com/PuentesTimothee/Raytracer/blob/master/RaytracerTest.png)
